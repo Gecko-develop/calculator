@@ -4,7 +4,7 @@
 
 ### Methode
 
-Mit dem Aufruf **`Calculator.calculate(String toCalculate)`** soll ein mathematischer Ausdruck in Form eines Strings ausgewertet werden.
+Mit dem Aufruf `Calculator.calculate(String toCalculate)` soll ein mathematischer Ausdruck in Form eines Strings ausgewertet werden.
 
 ### Ausführung
 
@@ -32,7 +32,7 @@ Folgende mathematischen Operationen sollen von der Funktion ausgewertet werden:
 
 ### Das komplette Projekt soll mit TDD umgesetzt werden.
 
--  als Übung, testgetrieben ein komplettes Projekt umzusetzen
+- als Übung, testgetrieben ein komplettes Projekt umzusetzen
 - als Vergleich, mit der Umsetzung bei der binaris-informatik GmbH (mit Jörn)
 
 Repository auf [GitHub](https://github.com/Gecko-develop/calculator).
